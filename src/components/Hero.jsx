@@ -28,7 +28,7 @@ const Hero = () => {
             </p>
             
             <div className="hero-cta">
-              <a href="/prototype/index.html" className="btn-primary btn-lg">
+              <a href="https://orbit-psi-coral-64.vercel.app" className="btn-primary btn-lg">
                 View Interactive Prototype <ArrowRight size={20} />
               </a>
               <a href="#how-it-works" className="btn-secondary btn-lg">
