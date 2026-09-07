@@ -56,7 +56,7 @@ const Navbar = () => {
           <a href="#problem" onClick={() => setMobileMenuOpen(false)}>The Problem</a>
           <a href="#how-it-works" onClick={() => setMobileMenuOpen(false)}>How It Works</a>
           <a href="#features" onClick={() => setMobileMenuOpen(false)}>Features</a>
-          <a href="/prototype/index.html" className="btn-primary" style={{textAlign: 'center', marginTop: '1rem'}}>Try Demo</a>
+          <a href="https://orbit-psi-coral-64.vercel.app/" className="btn-primary" style={{textAlign: 'center', marginTop: '1rem'}}>Try Demo</a>
         </motion.div>
       )}
     </motion.nav>
